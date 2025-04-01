@@ -25,3 +25,8 @@ I’m a Computer Science student specializing in AI and Data Science, passionate
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </p>
+
+## 🔗 Connect with Me
+<a href="https://www.linkedin.com/in/noa-fishman-" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
