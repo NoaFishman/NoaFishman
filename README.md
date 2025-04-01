@@ -1,10 +1,6 @@
 ## 👋 Hi, I'm Noa Fishman!</p>
 #### 🚀 Computer Science Student | AI & Computer Vision Enthusiast</p>
 I’m a Computer Science student specializing in AI and Data Science, passionate about Machine Learning, Computer Vision, and Software Development. Currently, I’m interning at Nuvo Cares, where I work on computer vision-based systems for medical applications using SAM, YOLO, OpenCV, and image processing techniques.</p>
-### 🔧 Tech Stack & Skills</p>
-💻 Languages: Python, Java, C++, C<br>
-📊 AI & ML: OpenCV, TensorFlow, Image Processing<br>
-🛠️ Tools: Git, GitHub, MySQL, Linux</p>
 ### 🔬 Projects & Interests</p>
 🔹 Developing AI-driven solutions for real-world challenges<br>
 🔹 Exploring computer vision and image processing techniques<br>
@@ -29,4 +25,6 @@ I’m a Computer Science student specializing in AI and Data Science, passionate
 ## 🔗 Connect with Me
 <a href="https://www.linkedin.com/in/noa-fishman-" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
+</a></p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
